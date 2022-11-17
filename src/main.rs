@@ -22,7 +22,7 @@ impl Component for CounterComponent {
         match msg {
             Msg::AddOne => {
                 self.count += 1;
-                true // re-render component
+                true
             }
         }
     }
