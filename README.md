@@ -2,4 +2,4 @@
 # rust-chat-with-yew
 
 
-Rust webbapp using yew framework.
+Rust webbapp using yew framework. :fire:
